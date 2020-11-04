@@ -1,0 +1,28 @@
+cd = int(input("CD: "))
+sd = int(input("SD: "))
+da = int(input("DA: "))
+vc = int(input("VC: "))
+pe = int(input("STQA: "))
+oe = int(input("RES: "))
+cdl = int(input("CD lab:"))
+casel = int(input("Case tools lab: "))
+cdal = int(input("Cloud lab: "))
+mini = int(input("Mini project: "))
+nptel = int(input("Nptel: "))
+
+cd *= 3
+sd *= 3
+da *= 3
+vc *= 3
+pe *= 3
+oe *= 3
+cdl *= 2
+casel *= 2
+cdal *= 2
+mini *= 2
+nptel *= 1
+
+result = cd + sd + da + vc + pe + oe + cdl + casel +
+        cdal + mini + nptel
+
+print("Congrtulations",result)

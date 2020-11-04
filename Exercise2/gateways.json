@@ -1,0 +1,21 @@
+{
+  "0C:F4:D5:1F:2E:A0": {
+    "90:FD:9F:FF:FE:7C:2D:64": {
+      "updated_on": "2020-10-23 03:59:35.852450",
+      "event_id": 3,
+      "status": "Online",
+      "gateway_diagnostics": {
+        "network_mac": "90:FD:9F:FF:FE:7C:2D:64",
+        "network_type": "ble",
+        "interface_name": "/dev/ttyUSB100",
+        "memory_usage": "3096 bytes",
+        "cpu_usage": "10.140000%",
+        "network_stack": "SILABS",
+        "network_stack_ver": "2.11.3.366",
+        "ap_up_time": "0 days, 0:32:39",
+        "gateway_up_time": "0 days, 0:31:02",
+        "mqtt_qos": "2"
+      }
+    }
+  }
+}
